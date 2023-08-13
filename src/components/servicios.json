@@ -1,0 +1,41 @@
+{
+    "services": [{
+            "title": "Asesoramiento Personalizado",
+            "description": "Como profesional dedicado a la venta de propiedades, mi enfoque se centra en proporcionar un asesoramiento altamente personalizado a mis valiosos clientes",
+            "description2": "Mi objetivo es comprender a fondo sus necesidades, deseos y preferencias únicas para guiarlos hacia la casa perfecta que se adapte a su estilo de vida.       ",
+            "icon": "bi bi-house"
+        },
+        {
+            "title": "Evaluación de Propiedades",
+            "description": " Mi enfoque integral abarca la evaluación detallada de propiedades, brindando una perspectiva sólida sobre su valor en el mercado actual. ",
+            "description2": "Esta perspicaz evaluación también me permite asesorar a mis clientes sobre estrategias de fijación de precios efectivas para maximizar su inversión.            ",
+            "icon": "bi bi-card-text"
+        },
+
+        {
+            "title": "Negociación Hábil",
+            "description": "Mi experiencia en negociación es una ventaja esencial en el proceso de compra y venta de propiedades. ",
+            "description2": "Mi enfoque estratégico y habilidades de comunicación efectiva me permiten lograr resultados positivos para mis clientes, asegurando que alcancen sus objetivos financieros y de inversión",
+            "icon": "bi bi-bar-chart-line"
+        },
+        {
+            "title": "Gestión de Documentación",
+            "description": "La adquisición o venta de una propiedad involucra una serie de documentos y trámites legales que pueden resultar abrumadores. ",
+            "description2": "Desde contratos hasta permisos y registros, mi objetivo es aliviar el estrés y simplificar el proceso para una transacción exitosa.",
+            "icon": "bi bi-file-earmark-text"
+        },
+        {
+            "title": "Red de Contactos",
+            "description": "Mi red extensa y diversa de contactos en la industria inmobiliaria es una herramienta poderosa para acceder a oportunidades exclusivas.",
+            "description2": "Esta red sólida y confiable me permite ofrecer un valor adicional a mis clientes al expandir sus opciones y horizontes en el mercado inmobiliario.            ",
+            "icon": "bi bi-body-text"
+        },
+
+        {
+            "title": "Asesoramiento en Inversiones",
+            "description": "Entiendo que la financiación es una parte integral del proceso de compra de una propiedad.  ",
+            "description2": "Mi objetivo es brindar claridad y orientación en este aspecto crucial para ayudar a mis clientes a tomar decisiones informadas y respaldadas por datos sólidos.            ",
+            "icon": "bi bi-cash-coin"
+        }
+    ]
+}
