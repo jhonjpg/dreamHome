@@ -113,7 +113,7 @@ className="nav-item"
      
      
      <li className="nav-item"> < ScrollLink
-to="testimonial"
+to="testimonials"
 smooth={true}
 duration={100}
 offset={-70} // Ajusta el valor según el tamaño de tu Navbar
@@ -152,100 +152,97 @@ className="nav-item"
 
 
 {/* other device */}
-
-{/* 
-<div className={menu ? "devices " : "devices active"}>
-
-
-<div className="log"><img src="gymmlogo.jpg" alt=""  /></div>
+<div className="devices">
 
 
 
 
-    <ul className="">
-    <li className="nav-item"> < ScrollLink
-  to="journey"
-  smooth={true}
-  duration={100}
-  offset={-70} // Ajusta el valor según el tamaño de tu Navbar
-  spy={true}
-  exact="true"
-  className="nav-item"
-  style={{ color: linkColorInicio }}
-  > Inicio</ScrollLink></li>
-                 
-         <li className="nav-item"> < ScrollLink
-  to="aboutPerformance"
-  smooth={true}
-  duration={100}
-  offset={-70} // Ajusta el valor según el tamaño de tu Navbar
-  spy={true}
-  exact="true"
-  className="nav-item"
-  style={{ color: linkColorNosotros }} > Nosotros</ScrollLink></li>
-         
-         <li className="nav-item"> < ScrollLink
-  to="whyUs"
-  smooth={true}
-  duration={100}
-  offset={-70} // Ajusta el valor según el tamaño de tu Navbar
-  spy={true}
-  exact="true"
-  className="nav-item"
-  style={{ color: linkColorWhy }}>  Porque Nosotros?</ScrollLink></li>
+
+<ul className="" >
 
 
-         <li className="nav-item"> < ScrollLink
-  to="prices"
-  smooth={true}
-  duration={100}
-  offset={-70} // Ajusta el valor según el tamaño de tu Navbar
-  spy={true}
-  exact="true"
-  className="nav-item"
-  style={{ color: linkColorPrices }}>  Precios</ScrollLink></li>
-         
-         
-         <li className="nav-item"> < ScrollLink
-  to="carouselGalllery"
-  smooth={true}
-  duration={100}
-  offset={-70} // Ajusta el valor según el tamaño de tu Navbar
-  spy={true}
-  exact="true"
-  className="nav-item"
-  style={{ color: linkColorGaleria }}>  Galeria</ScrollLink></li>
+<li className="nav-item"  > 
+< ScrollLink
+to="home"
+smooth={true}
+duration={100}
+offset={-70} // Ajusta el valor según el tamaño de tu Navbar
+spy={true}
+exact="true"
+className="nav-item"
 
 
-         <li className="nav-item"> < ScrollLink
-  to="trainer"
-  smooth={true}
-  duration={100}
-  offset={-70} // Ajusta el valor según el tamaño de tu Navbar
-  spy={true}
-  exact="true"
-  className="nav-item"
-  style={{ color: linkColorTrainer }}>  Entrenadores</ScrollLink></li>
+> INICIO
+</ScrollLink>
+</li>
+             
+     <li className="nav-item" > 
+     < ScrollLink
+to="services"
+smooth={true}
+duration={100}
+offset={-70} // Ajusta el valor según el tamaño de tu Navbar
+spy={true}
+exact="true"
+className="nav-item" 
+> SERVICIOS
+</ScrollLink>
+</li>
+     
+     <li className="nav-item" > 
+     < ScrollLink
+to="prices"
+smooth={true}
+duration={100}
+offset={-70} // Ajusta el valor según el tamaño de tu Navbar
+spy={true}
+exact="true"
+className="nav-item"
+>  PRECIOS
+</ScrollLink>
+</li>
 
 
-         <li className="nav-item"> < ScrollLink
-  to="contact"
-  smooth={true}
-  duration={100}
-  offset={-70} // Ajusta el valor según el tamaño de tu Navbar
-  spy={true}
-  exact="true"
-  className="nav-item"
-  style={{ color: linkColorContact }}>  Contacto</ScrollLink></li>
+     <li className="nav-item"> < ScrollLink
+to="about"
+smooth={true}
+duration={100}
+offset={-70} // Ajusta el valor según el tamaño de tu Navbar
+spy={true}
+exact="true"
+className="nav-item"
+>  SOBRE MI</ScrollLink></li>
+     
+     
+     <li className="nav-item"> < ScrollLink
+to="testimonials"
+smooth={true}
+duration={100}
+offset={-70} // Ajusta el valor según el tamaño de tu Navbar
+spy={true}
+exact="true"
+className="nav-item"
+>  TESTIMONIOS</ScrollLink></li>
 
 
-
-
-       </ul>
+     <li className="nav-item"> < ScrollLink
+to="contact"
+smooth={true}
+duration={100}
+offset={-70} // Ajusta el valor según el tamaño de tu Navbar
+spy={true}
+exact="true"
+className="nav-item"
+> CONTACTOS</ScrollLink></li>
 
 
 
-     </div> */}
+
+   </ul>
+
+
+
+     </div> 
 
 
 

@@ -14,6 +14,7 @@ import Footer from './pages/Footer';
 import { InView } from 'react-intersection-observer';
 
 
+
 function App() {
 
   return (
@@ -31,7 +32,7 @@ function App() {
 
 
 
-    <InView>
+    <InView triggerOnce="false">
     {({ inView, ref, entry }) => (
 
     <section id="services" ref={ref} className={inView ? 'services' : 'off'}>

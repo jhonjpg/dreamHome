@@ -7,6 +7,8 @@ const About = () => {
       <>
 
 
+
+<div className="info">
 <InView triggerOnce="false">
     {({ inView, ref, entry }) => (
 
@@ -15,8 +17,6 @@ const About = () => {
 )}
 </InView>
 
-
-<div className="info">
 
 <InView triggerOnce="false">
     {({ inView, ref, entry }) => (
@@ -56,9 +56,9 @@ const About = () => {
 )}
 </InView>
 
-</div>
-
 <button>Contactar a Marelin Zick </button>
+
+</div>
 
 
 
@@ -67,7 +67,7 @@ const About = () => {
 
 <div ref={ref} className={inView ? 'img' : 'off'}>
 
-<img src="/img/marelin.jpg" alt="" />
+<img src="img/marelin.jpg" alt="" />
 
 </div>
 
